@@ -1,4 +1,4 @@
-# AutoMLMainWeb
+# WSAutoMLAdminWeb
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -36,7 +36,7 @@ WS-AutoML은 클라우드 기반의 시계열 데이터 활용을 위한 오픈 
 
 웹
 
-- React, Material UI, Ant Design
+- React, Material UI
 
 서버
 
